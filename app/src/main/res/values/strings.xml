@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="_20bci0059">20BCI0059</string>
+    <string name="by_chirag_madaan">By Chirag Madaan</string>
+    <string name="location_tracker">Location Tracker</string>
+    <string name="track_your_friend_s_location">Track your friend\'s location</string>
+    <string name="or">or</string>
+    <string name="track">Track</string>
+    <string name="enter_co_ordinates">Enter co-ordinates</string>
+    <string name="paste_co_ordinates">Paste co-ordinates</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="coordinates_string">%1$s, %2$s</string>
+</resources>
